@@ -25,7 +25,7 @@ cd ~/catkin_ws
 catkin_make
 ```
 
-5. Change IP address temporarily
+5. Change IP address temporarily.
 
 Change IP to '192.168.1.102' and netmask to '255.255.255.0'
 ```
