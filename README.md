@@ -4,7 +4,7 @@
 
 1. Clone repo to a catkin workspace
  
-2. Install 'libpcap-dev'
+2. Install `libpcap-dev`
 ```
 sudo apt install libpcap-dev
 ```
@@ -27,7 +27,7 @@ catkin_make
 
 5. Change IP address temporarily.
 
-Use 'ifconfig' to check network, and change IP to '192.168.1.102' and netmask to '255.255.255.0'
+Use `ifconfig` to check network, and change IP to `192.168.1.102` and netmask to `255.255.255.0`
 ```
 sudo ifconfig network_name ip_address netmask net_make
 ```
