@@ -36,4 +36,4 @@ sudo ifconfig eth0 192.168.1.102 netmask 255.255.255.0
 roslaunch rslidar_pointcloud rs_lidar_16.launch
 ```
 
-Original repo: [](https://github.com/RoboSense-LiDAR/ros_rslidar)
+[Original repo](https://github.com/RoboSense-LiDAR/ros_rslidar)
